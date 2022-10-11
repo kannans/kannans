@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kannans. FullStack Developer. #Ruby #RubyOnRails #scala, @python @golang #Django #BigData #JavaScripts, #JavaScriptsStack, #cloud, #devOps
+- 👋 Hi, I’m @kannans. FullStack Developer. 
 - 👀 I’m interested in developing high performance web apps, Providing solutions for any complex problems.
 - 🌱 I’m currently learning AI/ML, BlockChain, Julia.
 
