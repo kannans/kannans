@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kannans. FullStack Developer. 
 - 👀 I’m interested in developing high performance web apps, Providing solutions for any complex problems.
-- 🌱 I’m currently learning AI/ML, BlockChain, Julia.
 
 <!---
 kannans/kannans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
